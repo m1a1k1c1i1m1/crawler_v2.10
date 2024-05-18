@@ -1,0 +1,17 @@
+{
+    "user": "p4ead4a57824d75bdc88702",
+    "req": "post",
+    "page_all": false,
+    "type_page": "one_page",
+    "body": {
+        "page": 1,
+        "properties": [
+            {
+                "name": "price_currency",
+                "value": 2
+            }
+        ],
+        "sorting": 4
+    },
+    "Url": "https://api.av.by/offer-types/cars/filters/main/apply"
+}
